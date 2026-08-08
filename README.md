@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I’m Soloskid 👋
 
-<!--
-**Soloskid/Soloskid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate | Laravel & PHP Developer | Software Tester
 
-Here are some ideas to get you started:
+I’m a Software Engineering graduate focused on building reliable, practical web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning real-world problems into functional software and working across the backend, database, and application layers.
+
+🛠️ Technologies
+ • Languages: PHP, JavaScript, HTML, CSS
+ • Framework: Laravel
+ • Database: MySQL
+ • Tools: Git, GitHub, Composer, XAMPP
+ • Deployment: Railway
+ • Testing: Software Testing & Application Testing
+
+🚀 Featured Projects
+
+📚 Library Management System
+A web-based library management system built with Laravel and MySQL, with features for managing books, users, and library operations.
+
+📦 Stockline Inventory System
+An inventory management application designed to help manage stock and related business operations.
+
+📌 What I’m Currently Doing
+ • Building and improving Laravel applications
+ • Strengthening my software testing and backend development skills
+ • Exploring REST API development
+ • Looking for opportunities to work with teams and clients on real-world software projects
+
+📫 Let’s Connect
+
+I’m open to software development opportunities, freelance projects, and collaborations.
